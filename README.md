@@ -1,5 +1,5 @@
 # Causality-Testing
-This repo is created for FSE 2022 paper - **Causality-Based Testing for Software  Fairness**
+This repo is created for ICSE 2023 paper - **Causality-Based Testing for Software  Fairness**
 
 What causes software to make decisions that are unfair to different social groups? How can we mitigate that problem?
 
