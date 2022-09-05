@@ -36,4 +36,4 @@ Rather, it is better to report unfairness propensity as a probability P computed
 We are aware that the Dowhy API has been constantly updating and expanding itself. In our experimentation, we used DoWhy version==0.6.
 
 ## Experiment Results
-In our paper, we collected DoWhy's propensity scores as well as several fairness measures for each bias mitigation method. The results are mean values from 5-graphs **X** 10-repeats. The final mean scores reported in this paper can be found in XXX.
+In our paper, we collected DoWhy's propensity scores as well as several fairness measures for each bias mitigation method. The results are mean values from 5-graphs **X** 10-repeats. The final mean scores used in the paper can be found in the [fairness score file](/data/fairness_scores.xlsx) and [propensity score file](/data/propensity_scores.xlsx).
